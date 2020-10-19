@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{1872BF39-A484-49F1-9B7F-A38FB348E01A}|Default">
+  <MonoDevelop.Ide.ItemProperties.CodeTest PreferredExecutionTarget="Android.S6L3Y18622007058" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CreateActivity.cs">
+    <Files>
+      <File FileName="CreateActivity.cs" Line="96" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CodeTest" expanded="True">
+            <Node name="CodeTest" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/rramanaiah/Downloads/CodeTest 3/CreateActivity.cs" relfile="CreateActivity.cs" line="143" column="1" />
+      <Breakpoint file="/Users/rramanaiah/Downloads/CodeTest 3/CreateActivity.cs" relfile="CreateActivity.cs" line="89" column="1" />
+      <Breakpoint file="/Users/rramanaiah/Downloads/CodeTest 3/CreateActivity.cs" relfile="CreateActivity.cs" line="179" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
